@@ -85,9 +85,6 @@ In this project there are four sub modules:
 ### Student Exam Page
 ![Screenshot (218)](https://user-images.githubusercontent.com/95666818/213916878-5986034b-fff2-4fe5-83df-a23f43ca9637.png)
 
-### Certificate Page
-![Screenshot (219)](https://user-images.githubusercontent.com/95666818/213916877-1c5f2c6c-eb2c-4832-9081-e260fa8b870b.png)
-
 
 
 
